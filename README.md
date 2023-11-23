@@ -1,5 +1,5 @@
 # valaxy-rtp Test Webhook
-TEST12
+TEST
 bdhsvchdsbvchdcv
 bvdfnbv. vndfb vjkfbvjfdb
 fdjvnbjfbnvfjbvnf vjkvkfbvjbndf
